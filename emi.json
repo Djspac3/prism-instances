@@ -1,0 +1,50 @@
+{
+  "favorites": [
+    {
+      "stack": "item:minecraft:birch_stairs"
+    },
+    {
+      "stack": "item:minecraft:netherite_upgrade_smithing_template{HideFlags:32,display:{Lore:[\u0027[{\"text\":\"Converts points of one type into another by condensing\",\"italic\":false}]\u0027,\u0027[{\"text\":\"offhand to use\",\"italic\":false,\"color\":\"red\"}]\u0027],Name:\u0027[{\"text\":\"Condense \",\"italic\":false},{\"text\":\"[\",\"italic\":false},{\"text\":\"Offhand to Use\",\"italic\":false,\"color\":\"red\"},{\"text\":\"]\",\"italic\":false}]\u0027}}"
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:charcoal",
+    "item:minecraft:coal",
+    "item:minecraft:bamboo_block",
+    "#item:minecraft:bamboo_blocks",
+    "item:minecraft:bamboo_planks",
+    "#item:minecraft:planks",
+    "item:minecraft:piston",
+    "item:minecraft:sticky_piston",
+    "#item:minecraft:cherry_logs",
+    "item:minecraft:cherry_planks",
+    "item:minecraft:bamboo",
+    "item:minecraft:stick",
+    "item:minecraft:diamond_ore",
+    "item:minecraft:diamond",
+    "item:minecraft:spruce_wood",
+    "item:minecraft:arrow",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:gold_ingot",
+    {
+      "type": "item",
+      "id": "minecraft:emerald",
+      "amount": 9
+    },
+    "item:minecraft:emerald_block{Damage:32767}",
+    "item:minecraft:campfire{BlockStateTag:{lit:\"false\"},display:{Lore:[\u0027{\"text\":\"Place me!\",\"italic\":false,\"color\":\"#66F5B7\"}\u0027],Name:\u0027{\"text\":\"Off campfire\",\"italic\":false,\"color\":\"#66F5B7\"}\u0027}}",
+    "item:minecraft:suspicious_stew{effects:[{duration:180,id:\"minecraft:weakness\"}]}",
+    "item:minecraft:oak_planks{Damage:32767}",
+    "item:minecraft:chest{BlockEntityTag:{LootTable:\"spawners/trial_chamber/consumables\"},display:{Name:\u0027\"LootChest: spawners/trial_chamber/consumables\"\u0027}}",
+    "item:minecraft:golden_hoe{Damage:0}",
+    "item:minecraft:tnt"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

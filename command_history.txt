@@ -1,0 +1,50 @@
+/whynoaxiom
+/admin
+/admin list
+/axiomenablecheats
+/axiomhandshake
+/whynoaxiom
+/editor
+/scoreboard objectives
+/scoreboard objectives list
+/scoreboard objectives add new_player_joined dummy
+/reload
+/scoreboard players reset @s
+/scoreboard players reset @a
+/scoreboard objectives setdisplay sidebar new_player_joined
+/reload
+/give @s minecraft:gravel 2
+/tp 0 0 0
+/advancement revoke @s everything
+/advancement grant @s everything
+/fill 51 60 50
+/fill 51 60 50 151 60 -50
+/fill 51 60 50 151 60 -50 minecraft:structure_void
+/give @s minecraft:birch_planks
+/give @s stone 51
+/fill 51 50 50 151 50 -50 minecraft:sand
+/fill 51 50 50 151 50 -50 minecraft:smooth_quartz
+/scoreboard objectives list
+/cglow -k entities @a 1 color red
+/get help
+/get item minecraft:firework_rocket{Fireworks:{Explosions:[{Colors:[I;255,255,255]}],Flight:1}}
+/get preset
+/get
+/get help
+/get help nbteditor
+/bobby upgrade
+/trigger spawn
+/trigger start
+/trigger stats
+//come
+//?
+//help ?
+//setting prefix #
+/trigger spawn
+/fcc help /come
+/fcc help /
+/fcc help //
+/trigger stats
+//goto minecraft:red_concrete
+/trigger spawn
+/trigger items_missing
